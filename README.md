@@ -13,4 +13,4 @@ ABSTRACT:
 Keywords: 
  -Disease Prediction,
  -Machine learning
- -Naive bayes algorithm
+ -Decision Tree algorithm
